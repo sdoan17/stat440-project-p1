@@ -1,0 +1,19 @@
+Use,groups,roc_auc,average_precision
+2025,"['adjusted_age', 'log_length']",0.8626820881480587,0.4619941847778295
+2025,"['adjusted_age', 'material_surface']",0.8909467750037915,0.47339164616627216
+2025,"['adjusted_age', 'network_rate_75m']",0.8851353032041547,0.4513202353651118
+2025,"['log_length', 'material_surface']",0.5161765603364449,0.059343927777778374
+2025,"['log_length', 'network_rate_75m']",0.6394381793989328,0.12835212327747414
+2025,"['material_surface', 'network_rate_75m']",0.5872184110035613,0.09706566767435236
+2026,"['adjusted_age', 'log_length']",0.7891899350649956,0.33819937221331675
+2026,"['adjusted_age', 'material_surface']",0.7923012309906324,0.3480045288273761
+2026,"['adjusted_age', 'network_rate_75m']",0.822942423421997,0.35224208569983456
+2026,"['log_length', 'material_surface']",0.46497404383903346,0.051037479756533374
+2026,"['log_length', 'network_rate_75m']",0.5900587365293882,0.09041645153866175
+2026,"['material_surface', 'network_rate_75m']",0.5653329404627939,0.09074940024461149
+Full training data,"['adjusted_age', 'log_length']",0.884366307018517,0.4323604884529912
+Full training data,"['adjusted_age', 'material_surface']",0.8742140740191668,0.42435185960038835
+Full training data,"['adjusted_age', 'network_rate_75m']",0.8893276425793926,0.4359260744388264
+Full training data,"['log_length', 'material_surface']",0.4648272921058257,0.0934115338250497
+Full training data,"['log_length', 'network_rate_75m']",0.583581355917625,0.1502061401913528
+Full training data,"['material_surface', 'network_rate_75m']",0.5108604283112672,0.13630214280114822

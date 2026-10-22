@@ -4,3 +4,6 @@ scipy
 jupyterlab 
 ipykernel
 matplotlib
+scikit-learn
+xgboost
+joblib

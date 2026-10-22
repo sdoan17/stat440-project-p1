@@ -1,0 +1,31 @@
+{
+  "model": "xgboost",
+  "mean_evaluation_auc": 0.8638005013258858,
+  "evaluation_years": [
+    2025,
+    2026
+  ],
+  "training_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "training_rows": 250776,
+  "predictor_columns": [
+    "adjusted_age",
+    "network_rate_75m"
+  ],
+  "parameters": {
+    "max_depth": 4,
+    "learning_rate": 0.04,
+    "min_child_weight": 120,
+    "subsample": 1.0,
+    "reg_lambda": 30,
+    "n_estimators": 238
+  },
+  "status": "Two-year reused development comparison"
+}
