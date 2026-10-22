@@ -1,0 +1,32 @@
+{
+  "selected_candidate": "Grouped 0.5: 8 years, cost power 1.0",
+  "years": [
+    2027,
+    2051
+  ],
+  "annual_budget": 10000000,
+  "budget_carryover": true,
+  "work_units": 26075,
+  "required_pipes": 38463,
+  "uncovered_required_pipes": 0,
+  "no_future_leak_construction": 170261614.79,
+  "no_future_leak_completion_year": 2044,
+  "selected_mean_expected_total": 200648842.98395172,
+  "baseline_mean_expected_total": 313197693.3214834,
+  "mean_paired_simulated_savings": 100349239.85918225,
+  "candidate_plans_evaluated": 52,
+  "paired_simulation_worlds": 72,
+  "risk_factors": [
+    0.75,
+    1.0,
+    1.25
+  ],
+  "source": "StarKingdom.pdf, pages 5\u201310; user-confirmed carryover",
+  "evaluation_settings": [
+    "Distinct surface rates summed",
+    "Construction before annual leaks",
+    "Repair costs separate from construction allocation",
+    "Fixed projected hazards during replay"
+  ],
+  "status": "Model-based planning estimate; not an official score or global optimum"
+}
